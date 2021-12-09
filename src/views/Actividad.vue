@@ -15,7 +15,7 @@
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-start.align-items-center            
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/a1/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
 
