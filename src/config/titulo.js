@@ -1,2 +1,1 @@
-module.exports =
-  'Variables ambientales'
+module.exports = 'Variables ambientales'

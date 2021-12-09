@@ -1,11 +1,10 @@
 export default {
   global: {
-    componenteFormativo:
-      'Variables ambientales',
+    componenteFormativo: 'Variables ambientales',
     descripcionCurso:
       'Conocer las variables ambientales de un agroecosistema con manejo agroecológico o de producción ecológica es de gran utilidad para realizar un diagnóstico en materia ambiental. Dichas variables se pueden identificar a partir de la caracterización del territorio y del análisis de fuentes de información primaria y secundaria.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
@@ -103,8 +102,7 @@ export default {
     {
       referencia:
         'FAO. (2018). Los 10 elementos de la agroecología. Guía para la transición hacia sistemas alimentarios y agrícolas sostenibles. FAO. ',
-      link:
-        'https://www.fao.org/agroecology/overview/10-elements/es/',
+      link: 'https://www.fao.org/agroecology/overview/10-elements/es/',
     },
     {
       referencia:
@@ -119,7 +117,8 @@ export default {
     {
       referencia:
         'MinAgricultura. (2006). Normatividad Sello Ecológico. Marco normativo de la Producción Agropecuaria Ecológica.',
-      link: 'https://www.minagricultura.gov.co/tramites-servicios/Paginas/Normatividad-Sello-Ecologico.aspx',
+      link:
+        'https://www.minagricultura.gov.co/tramites-servicios/Paginas/Normatividad-Sello-Ecologico.aspx',
     },
     {
       referencia:
@@ -164,19 +163,22 @@ export default {
       texto:
         'MinAgricultura. (2006). Normatividad Sello Ecológico. Marco normativo de la Producción Agropecuaria Ecológica.',
       tipo: 'Página web',
-      link: 'https://www.minagricultura.gov.co/tramites-servicios/Paginas/Normatividad-Sello-Ecologico.aspx',
+      link:
+        'https://www.minagricultura.gov.co/tramites-servicios/Paginas/Normatividad-Sello-Ecologico.aspx',
     },
     {
       texto:
         'IFOAM Organics International. (2021). <i>Organic Word Global organic farming statistics.</i>',
       tipo: 'Informe',
-      link: 'https://www.organic-world.net/yearbook/yearbook-2021.html.%20https://www.fibl.org/fileadmin/documents/shop/1150-organic-world-2021.pdf',
+      link:
+        'https://www.organic-world.net/yearbook/yearbook-2021.html.%20https://www.fibl.org/fileadmin/documents/shop/1150-organic-world-2021.pdf',
     },
     {
       texto:
         'Unidad de Planificación Rural Agropecuaria – UPRA-. (2016). Contexto para la planificación, gestión del desarrollo y ordenamiento territorial agropecuario. MinAgricultura.',
       tipo: 'Libro',
-      link: 'https://www.upra.gov.co/documents/10184/13821/Planificaci%C3%B3n_gesti%C3%B3n_desarrollo_OTA',
+      link:
+        'https://www.upra.gov.co/documents/10184/13821/Planificaci%C3%B3n_gesti%C3%B3n_desarrollo_OTA',
     },
   ],
   creditos: {
@@ -199,25 +201,24 @@ export default {
         cargo: 'Experta temática - Contratista',
         centro:
           'Centro para el Desarrollo Agroecológico y Agroindustrial – Regional Atlántico (Sabanalarga)',
-      },     
+      },
       {
         nombre: 'Caterine Bedoya Mejía',
         cargo: 'Diseñadora instruccional',
-        centro:
-          'Centro de Gestión Industrial – Regional Distrito Capital',
-      },      
+        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
+      },
       {
         nombre: 'Ana Catalina Córdoba Sus',
         cargo: 'Revisora metodológica y pedagógica',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
-      },     
+      },
       {
         nombre: 'Julia Isabel Roberto',
         cargo: 'Diseñadora y evaluadora instruccional',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
-      },       
+      },
     ],
     desarrolloProducto: [
       {
@@ -248,7 +249,7 @@ export default {
         cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },      
+      },
       {
         nombre: 'Nombre',
         cargo: 'Producción audiovisual',
