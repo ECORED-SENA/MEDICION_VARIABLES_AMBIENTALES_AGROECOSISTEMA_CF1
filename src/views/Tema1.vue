@@ -56,7 +56,7 @@
 
     .row.mb-5.justify-content-center
       .col-lg-10
-        .cajon.color-secundario
+        .cajon.color-secundario.p-4
           p.mb-0  Las prácticas de manejo a favor de la biodiversidad y el cuidado del medio ambiente, la labranza mínima del suelo, la recuperación de conocimientos tradicionales, el no uso de agrotóxicos y el ciclaje de nutrientes en los agroecosistemas son algunas de las prácticas que caracterizan a estos sistemas de producción.
 
 
