@@ -178,26 +178,26 @@
               p Hacen parte de un proceso de ingeniería genética, en el cual el organismo es modificado a través de la incorporación de genes de distintas especies, con el fin de engendrar nuevas características para que sea resistente a los herbicidas, plagas y adversidades del entorno.
               br
 
-      p.mb-5  Para complementar la identificación de la procedencia de los alimentos, estos obtienen los Sellos de Alimentos.
+    p.mb-5  Para complementar la identificación de la procedencia de los alimentos, estos obtienen los Sellos de Alimentos.
 
-      TabsC.color-acento-botones
-        .py-3.py-md-4(titulo="Sello de Alimento <br>Ecológico del MADR")
-          .row.align-items-center
-            .col-md-6
-              figure
-                img.nW.centered(src='@/assets/curso/t1-t1.png', alt='logo MADR')          
-            .col-md-6.mb-4.mb-md-0
-              h4 Sello de Alimento Ecológico del MADR
-              p Este sello se emplea para el comercio nacional y es de observancia voluntaria, es decir, lo usan los productores que voluntariamente se certifiquen bajo la normatividad en mención.
-          
-        .py-3.py-md-4(titulo="Sellos orgánicos de Estados Unidos,<br> Japón, Unión Europea, Canadá y Corea")
-          .row.align-items-center
-            .col-md-6
-              figure
-                img.nW.centered(src='@/assets/curso/t1-t2.png', alt='ejemplos de sellos')          
-            .col-md-6.mb-4.mb-md-0
-              h4 Sellos orgánicos de Estados Unidos, Japón, Unión Europea, Canadá y Corea
-              p Los sellos internacionales de productos ecológicos son creados por cada país y son de observancia obligatoria para los productores nacionales que desean exportar sus productos.
+    TabsC.color-acento-botones
+      .py-3.py-md-4(titulo="Sello de Alimento <br>Ecológico del MADR")
+        .row.align-items-center
+          .col-md-6
+            figure
+              img.nW.centered(src='@/assets/curso/t1-t1.png', alt='logo MADR')          
+          .col-md-6.mb-4.mb-md-0
+            h4 Sello de Alimento Ecológico del MADR
+            p Este sello se emplea para el comercio nacional y es de observancia voluntaria, es decir, lo usan los productores que voluntariamente se certifiquen bajo la normatividad en mención.
+        
+      .py-3.py-md-4(titulo="Sellos orgánicos de Estados Unidos,<br> Japón, Unión Europea, Canadá y Corea")
+        .row.align-items-center
+          .col-md-6
+            figure
+              img.nW.centered(src='@/assets/curso/t1-t2.png', alt='ejemplos de sellos')          
+          .col-md-6.mb-4.mb-md-0
+            h4 Sellos orgánicos de Estados Unidos, Japón, Unión Europea, Canadá y Corea
+            p Los sellos internacionales de productos ecológicos son creados por cada país y son de observancia obligatoria para los productores nacionales que desean exportar sus productos.
 
     .row.mb-5
       .col-lg-8(data-aos='slide-left') 
