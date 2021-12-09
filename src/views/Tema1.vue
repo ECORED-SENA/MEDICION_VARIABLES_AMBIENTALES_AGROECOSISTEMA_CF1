@@ -91,7 +91,42 @@
           .bloque-texto-g__texto.p-4
             p.mb-0  En Colombia, el Ministerio de Agricultura y Desarrollo Rural (MADR) y la Federación Internacional de Movimientos de Agricultura. (IFOAM) definen los conceptos de <b>producción ecológica, biológica u orgánica, agricultura orgánica y agroecología de la siguiente manera:</b>    
 
-    //-- Aqui vienen los cards modales
+    .row.justify-content-center.custom-dots
+      .col-lg-11
+        ImagenInfograficaB.color-acento-botones.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/t1-info2.svg', alt='imagen decorativa')
+
+          .tarjeta.white-card.p-3(x="15%" y="99%" tooltip="Ver más" numero="+")
+            .row.align-items-center
+              .col-lg-4
+                figure
+                  img(src='@/assets/curso/t1-m1.svg', alt='imagen decorativa')
+              .col-lg-8
+                .h4 Producción ecológica, biológica u orgánica
+                p Sistema holístico de gestión de la producción agropecuaria, acuícola y pesquera que promueve la conservación de la biodiversidad, los ciclos biológicos y la actividad biológica del ecosistema. Esta producción se basa en la reducción de insumos externos a la exclusión de insumos de síntesis química. 
+
+          .tarjeta.white-card.p-3(x="50%" y="99%" tooltip="Ver más" numero="+")
+            .row.align-items-center
+              .col-lg-4
+                figure
+                  img(src='@/assets/curso/t1-m2.svg', alt='imagen decorativa')
+              .col-lg-8
+                .h4 Agricultura orgánica 
+                p Es un sistema de producción de alimentos que sostiene la salud de los suelos, los ecosistemas y las personas; está basada en procesos ecológicos, biodiversidad y ciclos adaptados a las condiciones locales, en lugar de usar insumos con efectos adversos; combina tradición, innovación y ciencia para beneficiar el medio ambiente común y promover relaciones justas y una buena calidad de vida para todos los involucrados. Federación Internacional de Movimientos de Agricultura. (IFOAM). 
+
+          .tarjeta.white-card.p-3(x="85%" y="99%" tooltip="Ver más" numero="+")
+            .row.align-items-center
+              .col-lg-4
+                figure
+                  img(src='@/assets/curso/t1-m3.svg', alt='imagen decorativa')
+              .col-lg-8
+                .h4 Agroecología
+                p Es una disciplina científica, un conjunto de prácticas y un movimiento social. Como ciencia estudia las interacciones ecológicas de los diferentes componentes del agroecosistema; como conjunto de prácticas busca sistemas agroalimentarios sostenibles que optimicen y estabilicen la producción, y que se basen tanto en los conocimientos locales y tradicionales como en los de la ciencia moderna; y como movimiento social impulsa la multifuncionalidad de la agricultura, promueve la justicia social, nutre la identidad y la cultura, y refuerza la viabilidad económica de las zonas rurales.  Resolución 464 de 2017 del MADR.
+
+
+
 
     p.mb-5  Es importante diferenciar estos enfoques, que son similares y buscan objetivos comunes, pero que presentan diferencias en su implementación:
 
