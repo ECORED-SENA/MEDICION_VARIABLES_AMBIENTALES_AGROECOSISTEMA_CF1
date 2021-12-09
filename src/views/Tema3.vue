@@ -119,7 +119,7 @@
               p Se debe argumentar cuál es la necesidad que se ha encontrado en el mercado, es muy importante tener claro que dicho problema o necesidad valga la pena solucionar.           
             .col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/t3-p1.svg', alt='imagen decorativa')
+                img(src='@/assets/curso/t3-p2.svg', alt='imagen decorativa')
 
           .row
             .col-md-2
@@ -241,6 +241,13 @@
                 td
                 td
                 td
+              tr
+                td.text-center.text-bold Entomofauna del suelo
+                td
+                td
+                td
+                td
+                td                
               tr
                 td.text-center.text-bold Número de cultivos asociados
                 td

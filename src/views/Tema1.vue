@@ -171,7 +171,7 @@
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t1-c2.svg')})`}")
+            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/t1-c3.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               br
               .h4 Alimentos transgénicos
@@ -180,7 +180,7 @@
 
     p.mb-5  Para complementar la identificación de la procedencia de los alimentos, estos obtienen los Sellos de Alimentos.
 
-    TabsC.color-acento-botones
+    TabsC.color-acento-botones.mb-5
       .py-3.py-md-4(titulo="Sello de Alimento <br>Ecológico del MADR")
         .row.align-items-center
           .col-md-6

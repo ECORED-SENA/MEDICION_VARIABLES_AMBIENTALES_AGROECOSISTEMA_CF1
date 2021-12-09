@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
   
-    .titulo-principal
+    .titulo-principal.color-acento-botones(data-aos='flip-left')
       .titulo-principal__numero
         span
           i.fas.fa-info
