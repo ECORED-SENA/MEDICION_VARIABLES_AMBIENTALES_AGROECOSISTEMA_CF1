@@ -99,7 +99,7 @@
 
     .row.mb-5.justify-content-center
       .col-sm-6.col-xl-4.mb-4.mb-sm-0
-        .tarjeta.tarjeta-slide.derecha.color-primario(@mouseover="indicadorTarjetaSlide = false")
+        .tarjeta.tarjeta-slide.derecha.color-primario.mh-300(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/t2-c1.svg')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5.text-center
@@ -108,7 +108,7 @@
 
 
       .col-sm-6.col-xl-4.mb-4.mb-sm-0
-        .tarjeta.tarjeta-slide.derecha.color-primario(@mouseover="indicadorTarjetaSlide = false")
+        .tarjeta.tarjeta-slide.derecha.color-primario.mh-300(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/t2-c2.svg')})`}")
             .tarjeta-slide__contenido.p-4.p-xl-5.text-center

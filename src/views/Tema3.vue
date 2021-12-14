@@ -119,7 +119,7 @@
               p Se debe argumentar cuál es la necesidad que se ha encontrado en el mercado, es muy importante tener claro que dicho problema o necesidad valga la pena solucionar.           
             .col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/t3-p2.svg', alt='imagen decorativa')
+                img.nW.centered(src='@/assets/curso/t3-p2.svg', alt='imagen decorativa')
 
           .row
             .col-md-2
@@ -135,7 +135,7 @@
               p Durante la exposición es importante que los inversores sientan que por parte del ponente se tiene pleno conocimiento del mercado total, mercado al cual se puede servir y el mercado que se puede conseguir, y cómo estos anualmente están en constante crecimiento, se puede hablar de cifras económicas si se tiene pleno conocimiento de ellas,  se recomienda tener un contexto claro en todo sentido, haciendo referencia a la segmentación de los mercados al cual está dirigido el plan de negocio.       
             .col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/t3-p4.svg', alt='imagen decorativa')
+                img.nW.centered(src='@/assets/curso/t3-p4.svg', alt='imagen decorativa')
 
           .row
             .col-md-2
@@ -151,7 +151,7 @@
               p Exponer cuáles son las cualidades de la idea de negocio, porque estas los encaminan a repuntar en el mercado a través de la alternativa expuesta, cuál es su potencial principal, que los hace diferente en un nicho de mercado específico, dando solución oportuna en el entorno.
             .col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/t3-p6.svg', alt='imagen decorativa')
+                img.nW.centered(src='@/assets/curso/t3-p6.svg', alt='imagen decorativa')
 
           .row
             .col-md-2
@@ -167,7 +167,7 @@
               p Es muy importante dejar en evidencia el equipo de trabajo que estará a cargo del desarrollo de la idea de negocio, especificar cómo a través de su experiencia son los indicados para asumir el reto y sacarlo adelante.
             .col-md-2.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/t3-p8.svg', alt='imagen decorativa')
+                img.nW.centered(src='@/assets/curso/t3-p8.svg', alt='imagen decorativa')
 
           .row
             .col-md-2
@@ -205,7 +205,7 @@
                   span.orange-text Medio= 2 <br>
                   span.orange-text Alta = 3    
                 th  Análisis de priorización
-            tbody
+            tbody.customtext-size
               tr
                 td.text-center.text-bold Fuentes de agua contaminadas
                 td
