@@ -24,16 +24,16 @@
               h2.mb-0 Según la Unidad de Planificación Rural y Agropecuaria – UPRA (2018) 
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p “el territorio es un espacio geográfico en el que una persona, grupo de personas y organizaciones económicas y sociales ejercen control y dominio. La interacción de intereses y poderes de los diversos actores y organizaciones sobre el territorio configura un sistema espacial socioeconómico, institucional y político, en permanente transformación, que se interrelaciona a través de las estructuras y funcionalidades del territorio, genera sinergias y conflictos que requieren ser encauzados a través de la planificación y gestión del ordenamiento territorial, buscando transformar el crecimiento en desarrollo”.
+                p “El territorio es un espacio geográfico en el que una persona, grupo de personas y organizaciones económicas y sociales ejercen control y dominio. La interacción de intereses y poderes de los diversos actores y organizaciones sobre el territorio configura un sistema espacial socioeconómico, institucional y político, en permanente transformación, que se interrelaciona a través de las estructuras y funcionalidades del territorio, genera sinergias y conflictos que requieren ser encauzados a través de la planificación y gestión del ordenamiento territorial, buscando transformar el crecimiento en desarrollo”.
 
 
     p.mb-5  En el territorio se pueden identificar varias dimensiones:
 
     TabsA.color-primario.mb-5
-      .tarjeta.tarjeta--gris.p-4(titulo="Dimensiones en el territorio")
+      .tarjeta.tarjeta--gris.p-4(titulo="Dimensión ambiental")
         .row
           .col-lg-7
-            h4 Dimensiones en el territorio
+            h4 Dimensión ambiental
             p Tiene en cuenta los  recursos naturales, ecosistemas y las fuentes de energía. 
           .col-lg-5
             figure.slideInLeft
@@ -66,7 +66,7 @@
             figure.slideInLeft
               img.nW.centered(src='@/assets/curso/t2-t4.png', alt='imagen decorativa')  
       
-      .tarjeta.tarjeta--gris.p-4(titulo="Dimensión espacial")
+      .tarjeta.tarjeta--gris.p-4(titulo="Dimensión institucional")
         .row
           .col-lg-7
             h4 Dimensión institucional
@@ -82,10 +82,10 @@
     .row.mb-5
       .col-lg-2
         figure(data-aos='flip-left')
-          img.nW.centered(src='@/assets/curso/t2-t5.png', alt='imagen decorativa')          
+          img.nW.centered(src='@/assets/curso/t2-ic1.svg', alt='imagen decorativa')          
       .col-lg-10(data-aos='slide-left')
         p.mb-3  El estudio del territorio, de sus dimensiones, elementos, relaciones permiten identificar diferentes variables que afectan el avance de un agroecosistema y da insumos para realizar el diagnóstico y la planificación del sistema de producción, pero también del territorio en todo su conjunto. 
-        p.mb-0  Para conocer un poco más del territorio, fuentes de información, suelo y biodiversidad, se invita a observar el siguiente video: v
+        p.mb-0  Para conocer un poco más del territorio, fuentes de información, suelo y biodiversidad, se invita a observar el siguiente video:
 
     figure.mb-5
       .video

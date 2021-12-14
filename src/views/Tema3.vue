@@ -9,7 +9,7 @@
 
     .row.mb-5.justify-content-center.slideInUp
       .col-lg-10
-        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos='flip-up')
+        .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5(data-aos='flip-up')
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/t3-i1.jpg')})`}"
           )

@@ -77,14 +77,14 @@
               p Le siguen Argentina (3,7 millones de hectáreas).
 
             .tarjeta.color-acento-botones.p-3(x="87%" y="87%" numero="")
-              p España con 2,4 millones de hectáreas.
+              p Y España con 2,4 millones de hectáreas.
 
 
     #t_1_1.titulo-segundo.color-acento-botones
       h2 1.1  Marco normativo de la producción agropecuaria ecológica
     .row.mb-5.justify-content-center(data-aos='flip-up')
       .col-lg-10
-        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/t1-i2.jpg')})`}"
           )
@@ -158,7 +158,7 @@
                 td.text-center Resolución 0148 de 2004
                 td Por la cual se crea el Sello de Alimento Ecológico y se reglamenta su otorgamiento y uso. 
               tr
-                td.text-center Resolución 0148 de 2004
+                td.text-center Resolución 0187 de 2006
                 td Por la cual se adopta el Reglamento para la producción primaria, procesamiento, empacado, etiquetado, almacenamiento, certificación, importación, comercialización y se establece el Sistema de Control de Productos Agropecuarios Ecológicos.
               tr
                 td.text-center Resolución 036 de 2007
